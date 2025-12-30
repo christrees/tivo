@@ -1,6 +1,16 @@
 # tivo
 
+Hello Larry
 
+This is Chris Trees (the guy who bought the old TIVO's).  We got two of them registered to Steve last June.  We were hooking up the other two and called in to Tivo to change them and Tivo said they 'require' a service request code from you before they move them to Steve's Tivo account.
+
+- Call TiVo Customer Support 877.367.8486
+- Ask the AI to talk to an Agent to Transfer
+- Get an authorization case number for the following TiVo
+  - TiVo Premiere XL4 758-2011-904C-E08D
+  - TiVo Premiere XL4 758-2001-9031-9D03
+- Text the case number here please
+  
 ## TiVo Transfer 
 - Take picture of System Information screen TiVo Service Number
 - Go to [TiVo.com](https://www.tivo.com/)
@@ -42,12 +52,13 @@
 
 ---
 
+
 ## Tivo to media
 - [pyTivo post](https://www.tivocommunity.com/threads/is-there-a-way-to-upload-videos-to-a-tivo.595329/page-2?post_id=12944169#post-12944169)
 
 Hello Larry
 
-This is Chris Trees (the guy who bought the old TIVO's).  We got two of them registered to Steve last May.  We were hooking up the other two and called in to Tivo to change them and Tivo said they 'require' a service request code from you before they move them to Steve's Tivo account.
+This is Chris Trees (the guy who bought the old TIVO's).  We got two of them registered to Steve last June.  We were hooking up the other two and called in to Tivo to change them and Tivo said they 'require' a service request code from you before they move them to Steve's Tivo account.
 
 - Tivo Service Number to call:  (xxx) xxx.xxxx
 - Request "Authorization to release registered tivo to new owner."
