@@ -22,6 +22,13 @@
   3. You can sign in to My Account to check or update your account information. Create an account if you do not have an account yet.
   4. Applicable TiVos TiVo Premiere XL4 758-2011-904C-E08D - TiVo Service Number
 
+---
+
+# Photos
+
+![Tivo-Series4-DVRE08D-IMG_2842](./docs/Tivo-Series4-DVRE08D-IMG_2842.jpg)
+
+![Tivo-Series4-FRXL42tbLeft-IMG_2844](./docs/Tivo-Series4-FRXL42tbLeft-IMG_2844.jpg)
 
 ---
 ## Timeline
