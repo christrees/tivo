@@ -29,7 +29,9 @@
 - April 30 Chris contact Larry via FB Marketplace
 - May 3 Chris goes picks up Larry FB phone and address
 - June 15 Chris goes to Steve's
-- June ?? Steve transfers
+- June 30 ?? Steve transfers
+- Dec 29 ?? Steve rejected transfer
+- Dec 30 ?? last attempt before contacting Larry
 ---
 
 Hello Larry
