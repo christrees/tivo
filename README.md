@@ -10,8 +10,9 @@ This is Chris Trees (the guy who bought the old TIVO's).  We got two of them reg
 - Get an authorization case number for the following TiVos
   - TiVo Premiere XL4 758-2011-904C-E08D
   - TiVo Premiere XL4 758-2001-9031-9D03
-- Text the case number here please
-  
+- Text the case number to me
+
+<!--
 ## TiVo Transfer 
 - Take picture of System Information screen TiVo Service Number
 - Go to [TiVo.com](https://www.tivo.com/)
@@ -32,7 +33,7 @@ This is Chris Trees (the guy who bought the old TIVO's).  We got two of them reg
   2. Once you have the case number, contact Tivo Support.
   3. You can sign in to My Account to check or update your account information. Create an account if you do not have an account yet.
   4. Applicable TiVos TiVo Premiere XL4 758-2011-904C-E08D - TiVo Service Number
-
+-->
 ---
 
 # Photos
@@ -57,6 +58,7 @@ This is Chris Trees (the guy who bought the old TIVO's).  We got two of them reg
 ## Tivo to media
 - [pyTivo post](https://www.tivocommunity.com/threads/is-there-a-way-to-upload-videos-to-a-tivo.595329/page-2?post_id=12944169#post-12944169)
 
+<!--
 Hello Larry
 
 This is Chris Trees (the guy who bought the old TIVO's).  We got two of them registered to Steve last June.  We were hooking up the other two and called in to Tivo to change them and Tivo said they 'require' a service request code from you before they move them to Steve's Tivo account.
@@ -65,6 +67,7 @@ This is Chris Trees (the guy who bought the old TIVO's).  We got two of them reg
 - Request "Authorization to release registered tivo to new owner."
 - Tivo ID: xxxx
 - Tivo ID: xxxx
+-->
 
-- Chris Trees
-- Steve Edwards
+- Chris Trees    christrees@gmail.com  (515) 999-0007
+- Steve Edwards  gus@conversehouse.com (314) 853-8397
